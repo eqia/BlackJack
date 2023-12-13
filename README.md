@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/uUdj-yKQ69EAAAAd/blackjack-fall.gif">
+
 ## 🔥 This is a simple BlackJack game script!
 
 To run it you will need to compile it with the following command:
