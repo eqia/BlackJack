@@ -1,3 +1,5 @@
+## 🔥 This is a simple BlackJack game script!
+
 To run it you will need to compile it with the following command:
 <code>g++ blackjack.cpp -o bj</code>
  
